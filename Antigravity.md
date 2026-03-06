@@ -59,3 +59,4 @@
 ## 7. Progress & Reporting
 * **Daily Progress Report:** Detailed view showing Total Practice Time, Average Accuracy, a large line chart for 7-day Accuracy Trend, and a breakdown of today's activity by exercise type.
 * **Progress Tracker:** View showing current attempt percentage, weekly trend, and a historical list comparing the expected phrase vs. the user's spoken phrase. Includes a "Share Report with Therapist" action.
+abc
